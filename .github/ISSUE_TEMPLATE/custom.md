@@ -1,14 +1,16 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: ""
+labels: ""
+assignees: ""
 ---
 
 # Tasks
 
 - [ ]
+
+Estimated Time: XXmin
 
 # Writing the Issue
 
