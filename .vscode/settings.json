@@ -144,7 +144,11 @@
 		"svelte",
 		"prisma"
 	],
-	"i18n-ally.localesPaths": ["src/locales", "src/routes/api/languages", "src/routes/api/locales"],
+	"i18n-ally.localesPaths": [
+		"src/locales",
+		"src/routes/api/languages",
+		"src/routes/api/locales"
+	],
 	"i18n-ally.keystyle": "nested",
 	"vitest.include": ["src/**/*.{test}.ts"],
 	"editor.guides.bracketPairs": true,
@@ -158,7 +162,7 @@
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
 	},
 	"[html]": {
-		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[svelte]": {
 		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
